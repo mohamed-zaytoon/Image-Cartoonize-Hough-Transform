@@ -1,4 +1,4 @@
-# Image-Processing
+# Image-Cartoonize-Hough-Transform
 
 ## Authors
 
